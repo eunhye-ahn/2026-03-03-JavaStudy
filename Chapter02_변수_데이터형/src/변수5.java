@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class 변수5 {
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -29,7 +30,7 @@ public class 변수5 {
 		
 		System.out.println("이름 입력 : ");
 		String a = scan.next();
-		System.out.println(7+7+"7");
+		System.out.println('B'+'B'+"'B'");
 		
 		int b1 = 10;
 		int b2 = 20;

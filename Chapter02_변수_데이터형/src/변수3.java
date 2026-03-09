@@ -3,6 +3,7 @@
 
 
 public class 변수3 {
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

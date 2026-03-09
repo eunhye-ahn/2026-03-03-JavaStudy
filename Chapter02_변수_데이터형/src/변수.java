@@ -44,6 +44,7 @@ public class 변수 {
 		/*
 		 * int apple = 3; int bae = 2;
 		 * 
+		 * 
 		 * System.out.println("사과 : " + apple); System.out.println("배 : " + bae);
 		 * System.out.println("총 개수 : " + (apple+bae));
 		 */

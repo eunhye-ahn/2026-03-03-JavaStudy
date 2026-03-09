@@ -1,0 +1,23 @@
+
+public class 이항연산자_비교연산자1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int num1 = (int)(Math.random()*100)+1;
+		int num2 = (int)(Math.random()*100)+1;
+		int num3 = (int)(Math.random()*100)+1;
+		
+		System.out.println(num1+","+num2+","+num3);
+		
+		
+		int max = num1>num2 ? num1 : num2;
+		max = max > num3 ? max : num3;
+		
+		int min = num1<num2 ? num1 : num2;
+		min = min<num3? min : num3;
+		System.out.println(min);
+		int mid = num1+num2+num3-min-max;
+		System.out.println(mid);
+	}
+
+}

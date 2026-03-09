@@ -7,8 +7,8 @@ public class 이항연산자_산술연산자_정리 {
 		System.out.println(0b111000);					//0b : 이진코드임을 알림
 		System.out.println(56 >> 3);
 		
-		int kor = 70;
-		int eng = 60;
+		int kor = 60;
+		int eng = 70;
 		int math = 90;
 		
 		double[] limits = {60,70,80,90};

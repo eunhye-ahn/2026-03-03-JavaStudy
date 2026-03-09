@@ -5,6 +5,7 @@ import java.text.SimpleDateFormat;
 import java.util.*;
 
 /*
+ * 
  *		날짜나 시간을 가져올때 : Long 
  *
  *		변수 = 초기값
